@@ -162,22 +162,22 @@ button.toast-close-button {
   margin: auto;
 }
 .toast {
-  background-color: #030303;
+  background-color: #151515;
 }
 .toast-success {
-  background-color: #51a351;
+  background-color: #23bea4;
 }
 .toast-error {
-  background-color: #bd362f;
+  background-color: #d2041c;
 }
 .toast-info {
-  background-color: #2f96b4;
+  background-color: #37c4e8;
 }
 .toast-wait {
-  background-color: #2f96b4;
+  background-color: #37c4e8;
 }
 .toast-warning {
-  background-color: #f89406;
+  background-color: #f46644;
 }
 /*Responsive Design*/
 @media all and (max-width: 240px) {
