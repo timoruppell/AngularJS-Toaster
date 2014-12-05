@@ -70,14 +70,14 @@ button.toast-close-button {
   width: 100%;
 }
 .toast-top-left {
-  top: 12px;
+  top:  62px; /* adjuste to show below topnavbar */
   left: 12px;
 }
 .toast-top-center {
-  top: 12px;
+  top:  62px; /* adjuste to show below topnavbar */
 }
 .toast-top-right {
-  top: 12px;
+  top:  62px; /* adjuste to show below topnavbar */
   right: 12px;
 }
 .toast-bottom-right {
